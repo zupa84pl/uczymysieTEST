@@ -45,7 +45,8 @@ public class uczymysieTest {
 
     //@Test
     public void test03(){
-        logger.warn("XXXXXXX This is warn XXXXXXX");
+        logger.warn("XXXXXXX This is warn XXXXXXXX");
+        logger.warn("Dodane");
         logger.error("XXXXXXX This is error XXXXXXX");
         logger.fatal("XXXXXXX This is fatal XXXXXXX");
         Assert.assertEquals("HELLO","Alex3","Alex");
