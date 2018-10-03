@@ -44,3 +44,9 @@
 2018-10-03 22:19:30 INFO  uczymysieTest:26 - Starting test.
 2018-10-03 22:19:30 INFO  uczymysieTest:28 - Connecting to DB.
 2018-10-03 22:19:46 FATAL uczymysieTest:36 - XXXX DB problem
+2018-10-03 22:28:28 INFO  uczymysieTest:26 - Starting test.
+2018-10-03 22:28:28 INFO  uczymysieTest:28 - Connecting to DB.
+2018-10-03 22:28:43 FATAL uczymysieTest:36 - XXXX DB problem
+2018-10-03 22:38:52 INFO  uczymysieTest:26 - Starting test.
+2018-10-03 22:38:53 INFO  uczymysieTest:28 - Connecting to DB.
+2018-10-03 22:39:08 FATAL uczymysieTest:36 - XXXX DB problem
