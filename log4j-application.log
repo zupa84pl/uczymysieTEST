@@ -1,0 +1,46 @@
+2018-10-01 17:57:42 INFO  uczymysieTest:16 - Test1
+2018-10-01 17:58:28 INFO  uczymysieTest:16 - XXXXXXX Test1 XXXXXXX
+2018-10-01 17:58:40 INFO  uczymysieTest:16 - XXXXXXX Test1 XXXXXXX
+2018-10-01 17:58:40 DEBUG uczymysieTest:22 - XXXXXXX Test2 XXXXXXX
+2018-10-01 17:58:40 WARN  uczymysieTest:28 - XXXXXXX This is warn XXXXXXX
+2018-10-01 17:58:40 ERROR uczymysieTest:29 - XXXXXXX This is error XXXXXXX
+2018-10-01 17:58:40 FATAL uczymysieTest:30 - XXXXXXX This is fatal XXXXXXX
+2018-10-01 17:59:13 INFO  uczymysieTest:16 - XXXXXXX Test1 XXXXXXX
+2018-10-01 17:59:13 DEBUG uczymysieTest:22 - XXXXXXX Test2 XXXXXXX
+2018-10-01 17:59:13 WARN  uczymysieTest:28 - XXXXXXX This is warn XXXXXXX
+2018-10-01 17:59:13 ERROR uczymysieTest:29 - XXXXXXX This is error XXXXXXX
+2018-10-01 17:59:13 FATAL uczymysieTest:30 - XXXXXXX This is fatal XXXXXXX
+2018-10-01 18:01:32 INFO  uczymysieTest:16 - XXXXXXX Test1 XXXXXXX
+2018-10-01 18:01:32 FATAL uczymysieTest:26 - XXXXXXX Test2 XXXXXXX
+2018-10-01 18:01:32 WARN  uczymysieTest:32 - XXXXXXX This is warn XXXXXXX
+2018-10-01 18:01:32 ERROR uczymysieTest:33 - XXXXXXX This is error XXXXXXX
+2018-10-01 18:01:32 FATAL uczymysieTest:34 - XXXXXXX This is fatal XXXXXXX
+2018-10-01 18:02:43 FATAL uczymysieTest:26 - XXXXXXX Test2 XXXXXXX: org.junit.ComparisonFailure: HELLO expected:<Alex[2]> but was:<Alex[]>
+2018-10-01 18:22:44 FATAL uczymysieTest:28 - Comparison error: org.junit.ComparisonFailure: HELLO expected:<Alex[2]> but was:<Alex[]>
+2018-10-01 18:23:40 INFO  uczymysieTest:23 - Starting test.
+2018-10-01 18:23:40 INFO  uczymysieTest:25 - Connecting to DB.
+2018-10-01 18:23:41 FATAL uczymysieTest:30 - Comparison error: org.junit.ComparisonFailure: HELLO expected:<Alex[2]> but was:<Alex[]>
+2018-10-01 18:24:09 INFO  uczymysieTest:23 - Starting test.
+2018-10-01 18:24:09 INFO  uczymysieTest:25 - Connecting to DB.
+2018-10-01 18:24:24 FATAL uczymysieTest:30 - Comparison error: org.junit.ComparisonFailure: HELLO expected:<Alex[2]> but was:<Alex[]>
+2018-10-01 18:30:31 INFO  uczymysieTest:25 - Starting test.
+2018-10-01 18:30:31 INFO  uczymysieTest:27 - Connecting to DB.
+2018-10-01 18:30:47 FATAL uczymysieTest:32 - Comparison error: org.junit.ComparisonFailure: HELLO expected:<Alex[2]> but was:<Alex[]>
+2018-10-01 18:33:31 INFO  uczymysieTest:26 - Starting test.
+2018-10-01 18:33:31 INFO  uczymysieTest:28 - Connecting to DB.
+2018-10-01 18:33:46 FATAL uczymysieTest:33 - Comparison error: org.junit.ComparisonFailure: HELLO expected:<Alex[2]> but was:<Alex[]>
+2018-10-01 18:37:40 INFO  uczymysieTest:26 - Starting test.
+2018-10-01 18:37:40 INFO  uczymysieTest:28 - Connecting to DB.
+2018-10-01 18:37:55 FATAL uczymysieTest:33 - Comparison error: org.junit.ComparisonFailure: HELLO expected:<Alex[2]> but was:<Alex[]>
+2018-10-01 18:38:24 INFO  uczymysieTest:26 - Starting test.
+2018-10-01 18:38:24 INFO  uczymysieTest:28 - Connecting to DB.
+2018-10-01 18:38:39 FATAL uczymysieTest:33 - Comparison error: org.junit.ComparisonFailure: HELLO expected:<Alex[2]> but was:<Alex[]>
+2018-10-01 18:44:32 INFO  uczymysieTest:26 - Starting test.
+2018-10-01 18:44:32 INFO  uczymysieTest:28 - Connecting to DB.
+2018-10-01 18:44:32 FATAL uczymysieTest:33 - Comparison error: org.junit.ComparisonFailure: HELLO expected:<Alex[2]> but was:<Alex[]>
+2018-10-03 22:14:58 INFO  uczymysieTest:26 - Starting test.
+2018-10-03 22:14:58 INFO  uczymysieTest:28 - Connecting to DB.
+2018-10-03 22:15:14 FATAL uczymysieTest:36 - XXXX DB problem
+2018-10-03 22:19:30 INFO  uczymysieTest:26 - Starting test.
+2018-10-03 22:19:30 INFO  uczymysieTest:28 - Connecting to DB.
+2018-10-03 22:19:46 FATAL uczymysieTest:36 - XXXX DB problem
